@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://asonas.github.io/sitemap.xml 
