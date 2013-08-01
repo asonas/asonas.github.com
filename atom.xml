@@ -4,7 +4,7 @@
   <title><![CDATA[nasblog]]></title>
   <link href="http://asonas.github.io/atom.xml" rel="self"/>
   <link href="http://asonas.github.io/"/>
-  <updated>2013-08-01T09:26:43+09:00</updated>
+  <updated>2013-08-01T09:32:38+09:00</updated>
   <id>http://asonas.github.io/</id>
   <author>
     <name><![CDATA[asonas]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello boob]]></title>
+    <link href="http://asonas.github.io/blog/2013/08/01/hello-boob/"/>
+    <updated>2013-08-01T09:30:00+09:00</updated>
+    <id>http://asonas.github.io/blog/2013/08/01/hello-boob</id>
+    <content type="html"><![CDATA[<h1>こんにちはこんにちは</h1>
+
+<p>つくるだけつくってみたよ</p>
+]]></content>
+  </entry>
   
 </feed>
